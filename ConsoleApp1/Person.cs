@@ -8,7 +8,7 @@ namespace ConsoleApp1
     {
         public Person()
         {
-            Console.WriteLine("this is Class_Person's_Personこんだくらく");
+            Console.WriteLine("this is Class_Person's_Personこんだくらく0928");
 
         }
         public void test()
